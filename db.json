@@ -1,0 +1,129 @@
+{
+    "foods": [
+        {
+            "id": "1",
+            "category": "Birinchi taom",
+            "products": [
+                {   "id": "1",
+                    "title": "sho'rva",
+                    "image": "https://en.ferganatourism.uz/d/shurpa.jpg",
+                    "price": "2.5"
+                },
+                {
+                    "id": "2",
+                    "title": "mastava",
+                    "image": "https://img.freepik.com/premium-photo/mastava-is-traditional-uzbek-soup-white-bowl_112304-1632.jpg?w=2000",
+                    "price": "3"
+                },
+                {
+                    "id": "3",
+                    "title": "no'xat sho'rva",
+                    "image": "https://daryo.uz/cache/2021/04/life-800x468.jpg",
+                    "price": "2.7"
+                },
+                {
+                    "id": "4",
+                    "title": "no'xat sho'rva",
+                    "image": "https://daryo.uz/cache/2021/04/life-800x468.jpg",
+                    "price": "2.7"
+                },
+                {   "id": "5",
+                    "title": "sho'rva",
+                    "image": "https://en.ferganatourism.uz/d/shurpa.jpg",
+                    "price": "2.5"
+                },
+                {
+                    "id": "6",
+                    "title": "mastava",
+                    "image": "https://img.freepik.com/premium-photo/mastava-is-traditional-uzbek-soup-white-bowl_112304-1632.jpg?w=2000",
+                    "price": "3"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "category": "Ikkinchi taom",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "palov",
+                    "image": "https://cdn.tasteatlas.com/images/dishes/27db9824904b49ec8e4164ce73bafb12.jpg?w=600",
+                    "price": "5"
+                },
+                {
+                    "id": "2",
+                    "title": "manti",
+                    "image": "https://valentinascorner.com/wp-content/uploads/2016/09/Uzbek-Manti-1.jpg",
+                    "price": "4"
+                },
+                {
+                    "id": "3",
+                    "title": "jarkob",
+                    "image": "https://i.ytimg.com/vi/wupVs3H9_bc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLClABYcD9Uqe06VPunBxewM0KVHlQ",
+                    "price": "7"
+                },
+                {
+                    "id": "4",
+                    "title": "jarkob",
+                    "image": "https://i.ytimg.com/vi/wupVs3H9_bc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLClABYcD9Uqe06VPunBxewM0KVHlQ",
+                    "price": "7"
+                },
+                {
+                    "id": "5",
+                    "title": "palov",
+                    "image": "https://cdn.tasteatlas.com/images/dishes/27db9824904b49ec8e4164ce73bafb12.jpg?w=600",
+                    "price": "5"
+                },
+                {
+                    "id": "6",
+                    "title": "manti",
+                    "image": "https://valentinascorner.com/wp-content/uploads/2016/09/Uzbek-Manti-1.jpg",
+                    "price": "4"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "category": "Ichimliklar",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Maxito",
+                    "image": "https://www.gazeta.uz/media/img/2021/05/hxSClG16221972734019_l.jpg",
+                    "price": "1.5"
+                },
+                {
+                    "id": "2",
+                    "title": "Sharbat",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy76RqA7Dbf2qOQ5xloqPsvJq-1DDW75I7qw&usqp=CAU",
+                    "price": "1"
+                },
+                {
+                    "id": "3",
+                    "title": "Oddiy Suv",
+                    "image": "https://zira.uz/wp-content/uploads/2019/10/voda-2.jpg",
+                    "price": "2.7"
+                },
+                {
+                    "id": "4",
+                    "title": "Oddiy Suv",
+                    "image": "https://zira.uz/wp-content/uploads/2019/10/voda-2.jpg",
+                    "price": "2.7"
+                },
+                {
+                    "id": "5",
+                    "title": "Maxito",
+                    "image": "https://www.gazeta.uz/media/img/2021/05/hxSClG16221972734019_l.jpg",
+                    "price": "1.5"
+                },
+                {
+                    "id": "6",
+                    "title": "Sharbat",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy76RqA7Dbf2qOQ5xloqPsvJq-1DDW75I7qw&usqp=CAU",
+                    "price": "1"
+                }
+            ]
+        }
+        
+    ]
+}
